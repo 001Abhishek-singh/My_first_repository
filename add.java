@@ -5,6 +5,6 @@ class add
         int a = 24;
         int b = 12;
         int result = a + b;
-        System.out.println("The sum of two numbers is " + result)
+        System.out.println("The sum of two numbers is " + result);
     }
 }
